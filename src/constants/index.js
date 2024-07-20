@@ -141,16 +141,15 @@ import {
       ],
     },
     {
-      title: "Core Member",
-      company_name: "Mein Kraft",
+      title: "ML Research Intern ",
+      company_name: "Yubi Fintech",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "May 2023 - Oct 2023",
       points: [
-        "Team building and communication skills.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive forum for valuable discusions and overall development.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+          "Developed a ChatBot focusing on Extractive and Generative models, measured by successful utilization of RAG and Vector database.",
+          "Designed a system aimed at answering questions based on a given document using LLMs such as Llama-2, Flan T5, and other models with Haystack and LangChain.",
+"Highlights: Benchmarked the Extractive model with an Indian context dataset achieving an F1 score of 92.16% and Experimented on Fine Tuning Llama2 using Ludwig and PEFT for daily news dataset."
       ],
     },
   ];
