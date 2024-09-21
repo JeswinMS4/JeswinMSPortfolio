@@ -128,13 +128,13 @@ import {
       ],
     },
     {
-      title: "CSE (AI & ML) Engineering Student",
+      title: "Final Year CSE (AI & ML) Engineering Student",
       company_name: "Ramaiah Institute of Technology",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Present",
+      date: "Dec 2021 - Present",
       points: [
-        "Maintaining my CGPA at 9.21.",
+        "Maintaining my CGPA at 9.07.",
         "Collaborating with cross-functional teams of other developers to create wonderful projects.",
         "Developing and maintaining web applications using React.js and other related technologies.","Upskilling myself in foundational levels of various tech streams.",
         "Participating in hackathons and gaining constructive feedback from other developers.",
@@ -154,22 +154,27 @@ import {
     },
   ];
   
-  const testimonials = [
-    {
-      testimonial:
-        "CentuRITon",
-      name: "Hospitality Specialist",
-      designation: "Volunteered for the 36 hour national level Hackathon.",
-      company: "RIT",
-    },
-    {
-      testimonial:
-        "2nd Place- IEEE Ideaverse",
-      name: "Pothole Detection and Traffic Monitoring",
-      designation: "Idea",
-      company: "Team - Circuit Breakers",
-    },
-  ];
+const testimonials = [
+  {
+    testimonial: "1st Runners-Up - BOB Hackathon 2024",
+    name: "SevaAI",
+    designation: "End-to-End AI-Powered Customer Care Solution",
+    company: "Team Wisteria",
+  },
+  {
+    testimonial: "2nd Runners-Up - Tally Codebrewers",
+    name: "File Distribution Tool",
+    designation: "Workflow Optimization Tool",
+    company: "Team System Callers",
+  },
+  {
+    testimonial: "CentuRITon",
+    name: "Hospitality Specialist",
+    designation: "Volunteered for the 36-hour National Level Hackathon",
+    company: "RIT",
+  },
+];
+
   
   const projects = [
     {
@@ -194,25 +199,46 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Portfolio website",
+      name: "420 GANs : Automating Sketch-to-Image Transformation Using CycleGANs",
       description:
-        "The website you are looking at right now.",
+        "A clean, simple and readable implementation of CycleGAN in PyTorch for the task of Sketch to Photo and vice versa.",
       tags: [
         {
-          name: "react",
+          name: "PyTorch",
           color: "blue-text-gradient",
         },
         {
-          name: "threejs",
+          name: "Cycle GANs",
           color: "green-text-gradient",
         },
         {
-          name: "emailjs",
+          name: "Python",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/JeswinMS4/TRIAL_CycleGAN",
+    },
+          {
+      name: "AI-Enabled-Sign-Language-Communication-System",
+      description:
+        "An AI-enabled system for recognizing Indian Sign Language (ISL) using advanced deep learning models. This project integrates sign detection, classification, text translation, and text-to-speech functionalities.",
+      tags: [
+        {
+          name: "PyTorch",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Streamlit",
+          color: "green-text-gradient",
+        },
+        {
+          name: "MediaPipe",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/ItsNotRohit02/AI-Enabled-Sign-Language-Communication-System",
     },
   ];
   
