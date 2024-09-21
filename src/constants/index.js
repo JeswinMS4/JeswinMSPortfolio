@@ -22,7 +22,7 @@ import {
     carrent,
     jobit,
     threejs,
-    420 gans,
+    gans,
     signplan
   } from "../assets";
   
@@ -218,7 +218,7 @@ const testimonials = [
           color: "pink-text-gradient",
         },
       ],
-      image: 420 gans,
+      image: gans,
       source_code_link: "https://github.com/JeswinMS4/TRIAL_CycleGAN",
     },
           {
