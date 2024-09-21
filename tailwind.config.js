@@ -10,7 +10,7 @@ module.exports = {
       tertiary: "#151030",  // A deeper dark orange for accents
       "black-100": "#100d25", // Darker brownish-black with a hint of orange
       "black-200": "#331A0D", // Even darker shade to blend with dark orange
-      "white-100": "#090325", // You can keep this white or slightly warm it up
+      "white-100": "#f7eded", // You can keep this white or slightly warm it up
       },
       boxShadow: {
         card: "0px 35px 120px -15px #211e35",
