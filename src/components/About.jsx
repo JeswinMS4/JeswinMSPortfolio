@@ -48,7 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a 3rd Year CSE AI & ML student at Ramaiah Institute Of Technology, with intermediate skills in Python, Machine Learning and
+        I'm a Final Year CSE AI & ML student at Ramaiah Institute Of Technology, with intermediate skills in Python, Machine Learning and
         Web development, and fundamental knowledge in frameworks like PyTorch and
         Three.js. I'm a quick learner and open to collaborate closely with individuals to
         create efficient, scalable, and user-friendly solutions that solve
