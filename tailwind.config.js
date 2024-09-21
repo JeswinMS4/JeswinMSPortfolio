@@ -6,7 +6,7 @@ module.exports = {
     extend: {
       colors: {
       primary: "#050816", // You can keep this dark background
-      secondary: "#FF8C00", // Dark orange
+      secondary: "#c3afa6", // Dark orange
       tertiary: "#7A4000",  // A deeper dark orange for accents
       "black-100": "#40210F", // Darker brownish-black with a hint of orange
       "black-200": "#331A0D", // Even darker shade to blend with dark orange
