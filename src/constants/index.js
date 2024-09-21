@@ -22,8 +22,7 @@ import {
     carrent,
     jobit,
     threejs,
-    gans,
-    signplan
+    signplan,
   } from "../assets";
   
   export const navLinks = [
@@ -218,7 +217,7 @@ const testimonials = [
           color: "pink-text-gradient",
         },
       ],
-      image: gans,
+      image: jobit,
       source_code_link: "https://github.com/JeswinMS4/TRIAL_CycleGAN",
     },
           {
