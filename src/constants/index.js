@@ -220,27 +220,27 @@ const testimonials = [
       image: jobit,
       source_code_link: "https://github.com/JeswinMS4/TRIAL_CycleGAN",
     },
-          {
-      name: "AI-Enabled-Sign-Language-Communication-System",
-      description:
-        "An AI-enabled system for recognizing Indian Sign Language (ISL) using advanced deep learning models. This project integrates sign detection, classification, text translation, and text-to-speech functionalities.",
-      tags: [
-        {
-          name: "PyTorch",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Streamlit",
-          color: "green-text-gradient",
-        },
-        {
-          name: "MediaPipe",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: signplan,
-      source_code_link: "https://github.com/ItsNotRohit02/AI-Enabled-Sign-Language-Communication-System",
-    },
+    //       {
+    //   name: "AI-Enabled-Sign-Language-Communication-System",
+    //   description:
+    //     "An AI-enabled system for recognizing Indian Sign Language (ISL) using advanced deep learning models. This project integrates sign detection, classification, text translation, and text-to-speech functionalities.",
+    //   tags: [
+    //     {
+    //       name: "PyTorch",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Streamlit",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "MediaPipe",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: signplan,
+    //   source_code_link: "https://github.com/ItsNotRohit02/AI-Enabled-Sign-Language-Communication-System",
+    // },
   ];
   
   export { services, technologies, experiences, testimonials, projects };
